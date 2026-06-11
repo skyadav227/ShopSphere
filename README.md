@@ -41,7 +41,7 @@ Home → Products → Product Details → Add to Cart → Cart → Checkout
 ## 🚀 Deployment
 
 - GitHub: https://github.com/skyadav227/ShopSphere
-- Live: (add Vercel link here after deploy)
+- Live Demo: https://shopsphere-nine-nu.vercel.app 
 
 ---
 
