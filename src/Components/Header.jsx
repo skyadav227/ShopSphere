@@ -12,7 +12,7 @@ export default function Header() {
       <nav className="navbar navbar-expand-lg navbar-light" style={{ backgroundColor: "#F8F9FA", border: "1px solid #EAEAEA", zIndex: "10" }}>
         <div className="container-fluid">
           <img src={sdark} width="35" height="32" alt="" />
-          <a className="navbar-brand ms-2 fw-bold" href="#">ShopSphere</a>
+          <a className="navbar-brand ms-2 fw-bold" href="/Home">ShopSphere</a>
 
           <button
             className="navbar-toggler"
