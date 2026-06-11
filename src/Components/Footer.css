@@ -1,0 +1,21 @@
+.footer-icon {
+  transition: ease-in-out 0.3s;
+}
+
+.footer-icon:hover {
+  color: #198754;
+  transform: scale(1.2);
+}
+
+
+.crafted-text {
+  display: block;
+  color: #aaa;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+
+
+
+
